@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AtmTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-10-16T12:04:27" hostname="Constances-iMac" time="0.037">
+  <properties/>
+  <testcase name="depositOf50ShouldIncreaseInitialBalanceOf50To100()" classname="AtmTest" time="0.022"/>
+  <testcase name="shouldDenyUserAccessWithIncorrectPin()" classname="AtmTest" time="0.003"/>
+  <testcase name="withdrawOf50ShouldDecreaseInitialBalanceOf50To0()" classname="AtmTest" time="0.002"/>
+  <testcase name="shouldHaveDefaultBalanceOf100()" classname="AtmTest" time="0.001"/>
+  <testcase name="shouldHaveDefaultBalanceOf50()" classname="AtmTest" time="0.0"/>
+  <testcase name="shouldAllowUserAccessWithCorrectPin()" classname="AtmTest" time="0.001"/>
+  <testcase name="withdrawOf51ShouldReturnBalanceOf50()" classname="AtmTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
